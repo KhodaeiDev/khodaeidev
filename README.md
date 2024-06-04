@@ -40,7 +40,7 @@ I am a **Back-End** Developer  <img src="https://media.giphy.com/media/WUlplcMpO
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,express,nest,mongodb" />
+    <img src="https://skillicons.dev/icons?i=git,html,css,js,ts,nodejs,express,nest,mongodb" />
   </a>
 </p>
 
