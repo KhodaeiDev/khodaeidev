@@ -28,15 +28,15 @@
 
 ---
 
-:man_technologist:About Me :
+<h1>:man_technologist: About Me :</h1>
 
-I am a **Back-End** Developer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from IRAN , Tabriz.
-- :telescope:  I’m working as a Software Engineer and contributing to Backend for building the Server side of web applications with moden framworks like ExpressJs , NestJs
+<h3>I am a <strong>Back-End</strong> Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from IRAN , Tabriz.</h3>
+<ul>
+  <h4><li>:telescope:  I’m working as a Software Engineer and contributing to Backend for building the Server side of web applications with modern frameworks like ExpressJs , NestJs</li></h4>
+  <h4><li>:zap:  In my free time, I solve problems on GeeksforGeeks and read tech articles, and also available to solve your problems</li></h4>
+</ul>
 
-- :zap:  In my free time, I solve problems on GeeksforGeeks and read tech articles.and also availble to solve your problems
-
-
-:hammer_and_wrench: Languages and Tools :
+<h2>:hammer_and_wrench: Languages and Tools :</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
