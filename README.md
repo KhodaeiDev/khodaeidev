@@ -49,6 +49,6 @@ I am a **Back-End** Developer  <img src="https://media.giphy.com/media/WUlplcMpO
 :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=khodaei-dev&theme=neon)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 
 ---
