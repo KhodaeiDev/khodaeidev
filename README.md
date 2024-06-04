@@ -1,29 +1,54 @@
-## Hi there 👋
+<div id="header" align="center">
+    <h1>
+  Hey there Im Mehran Khodaei
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+      <div id="badges">
+  <a href="https://www.linkedin.com/in/khodaei-dev">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+    <a href="https://t.me/khodaei_Dev">
+        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"  />
+    </a>
+    <a href="https://instagram.com/khodaei_dev">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="telegram"  />
+    </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+</div>
+  
+  <img src="https://media4.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="400"/>
 
 
-**khodaei-dev/khodaei-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <div align=center">
+    <img src="https://komarev.com/ghpvc/?username=khodaei-dev&label=PROFILE+VIEWS" />
+</div>
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+:man_technologist:About Me :
 
-```yaml
-const response = {
-  status: 202,
-  data: {
-    fullName: "Ehsan Shahbazi",
-    birthDay: "2002 January 21, Monday",
-    university: "Computer Engineering Tabriz",
-    hobbies: ["podcast", "book", "movie", "hiking", "cycling", "web scraping"],
-    languages: [".java(4x)",".js(3x)", ".py(2x)", ".cpp(1x)"],
-    quote: "Do something that makes people's lives easier.",
-    currently: STUDING_FOR_MS_EXAMINATION
-  },
-};
+I am a **Back-End** Developer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from IRAN , Tabriz.
+- :telescope:  I’m working as a Software Engineer and contributing to Backend for building the Server side of web applications with moden framworks like ExpressJs , NestJs
+
+- :zap:  In my free time, I solve problems on GeeksforGeeks and read tech articles.and also availble to solve your problems
+
+
+:hammer_and_wrench: Languages and Tools :
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,express,nest,mongodb" />
+  </a>
+</p>
+
+---
+
+:fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=khodaei-dev&theme=neon)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
+---
