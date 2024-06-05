@@ -36,6 +36,7 @@
   <h4><li>:zap:  In my free time, I solve problems on GeeksforGeeks and read tech articles, and also available to solve your problems</li></h4>
 </ul>
 
+<br>
 <h2>:hammer_and_wrench: Languages and Tools :</h2>
 
 <p align="center">
@@ -43,9 +44,15 @@
     <img src="https://skillicons.dev/icons?i=git,html,css,js,ts,graphql,nodejs,express,nest,mongodb" />
   </a>
 </p>
+<br>
 
-<h3>📞How to contact me :</h3>
-<a href="https://instagram.com/khodaei_dev"> <img with="50px" src="https://github.com/khodaei-dev/khodaei-dev/blob/main/icons8-instagram-96.png?raw=true"></a>
+<h2>📞How to contact me :</h2>
+
+<div align="center" > 
+<a href="https://t.me/khodaei_Dev"> <img width="70px" src="https://github.com/khodaei-dev/khodaei-dev/blob/main/icons8-telegram-96.png?raw=true" alt="telegram"></a>
+<a href="https://instagram.com/khodaei_dev"> <img width="70px" src="https://github.com/khodaei-dev/khodaei-dev/blob/main/icons8-instagram-96.png?raw=true" alt="instagram"></a>
+<a href="https://www.linkedin.com/in/khodaei-dev"> <img width="70px" src="https://github.com/khodaei-dev/khodaei-dev/blob/main/icons8-linkedin-96.png?raw=true" alt="linkdin"></a>
+</div>
 
 ---
 
