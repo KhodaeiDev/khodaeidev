@@ -44,8 +44,8 @@
   </a>
 </p>
 
-<h3>How to contact me</h3>
-<a href="https://instagram.com/khodaei_dev"> <img src="https://github.com/khodaei-dev/khodaei-dev/blob/main/icons8-instagram-96.png?raw=true"></a>
+<h3>📞How to contact me :</h3>
+<a href="https://instagram.com/khodaei_dev"> <img with="50px" src="https://github.com/khodaei-dev/khodaei-dev/blob/main/icons8-instagram-96.png?raw=true"></a>
 
 ---
 
