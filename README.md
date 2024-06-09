@@ -1,3 +1,4 @@
+
 <div id="header" align="center">
     <h1>
   Hey there Im Mehran Khodaei
@@ -17,8 +18,7 @@
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
 </div>
-  
-  <img src="https://media4.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="400"/>
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" width="900px" />
 
 
   <div align=center">
