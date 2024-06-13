@@ -21,6 +21,10 @@
 <ul>
   <h4><li>:telescope:  I’m working as a Software Engineer and contributing to Backend for building the Server side of web applications with modern frameworks like ExpressJs , NestJs</li></h4>
   <h4><li>:zap:  In my free time, I solve problems on GeeksforGeeks and read tech articles, and also available to solve your problems</li></h4>
+  <h4><li>📧 My Gmail Address :</li></h4>
+    <a href= "https://github.com/khodaeidev">
+    <img src= "https://img.shields.io/badge/Gmail-khodaei.dev@gmail.com-snow?style=flat&logo=gmail" />
+  </a>
 </ul>
 
 <br>
@@ -107,11 +111,24 @@
 <a href="https://www.linkedin.com/in/khodaeidev"> <img width="50px" src="https://github.com/khodaeidev/khodaeidev/blob/main/icons8-linkedin-96.png?raw=true" alt="linkdin"></a>
 </div>
 
----
 
-:fire: My Stats :
+<h2>:fire: My Stats : </h2>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=khodaeidev&theme=neon)](https://git.io/streak-stats)
+<div align="center" >
+<p align="center">
+  <a href="https://github.com/khodaeiDev">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khodaeiDev&theme=radical" alt="khodaeidev GitHub Contribution"/>
+  </a>
+</p>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=khodaeiDev&theme=neon)](https://git.io/streak-stats)
+
+<a> 
+    <a href="https://github.com/khodaeidev"><img alt="khodaeidev Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=khodaeidev&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/khodaeidev"><img alt="khodaei dev Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=khodaeidev&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
+</div>
 
 
 ---
