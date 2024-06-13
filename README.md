@@ -44,33 +44,33 @@
       <br>Git
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="40" height="40" />
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="Github" width="40" height="40" />
       <br>Github
     </td>
     <td align="center" width="96"> 
-        <img src="https://skillicons.dev/icons?i=gitlab" width="40" height="40" alt="Git" />
+        <img src="https://skillicons.dev/icons?i=gitlab" width="40" height="40" alt="GitLab" />
       <br>GitLab
     </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postman" width="40" height="40" alt="css" />
+        <img src="https://skillicons.dev/icons?i=postman" width="40" height="40" alt="Postman" />
       <br>Postman
     </td>
       <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" width="40" height="40" alt="MongoDB" />
+        <img src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" width="40" height="40" alt="Swagger" />
       <br>Swagger
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=graphql" width="40" height="40" alt="VsCode" />
+        <img src="https://skillicons.dev/icons?i=graphql" width="40" height="40" alt="GraphQl" />
       <br>GraphQl
     </td>
   </tr>
  <tr>
          <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="40" height="40" />
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="40" height="40" />
       <br>JavaScript
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="40" height="40" />
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="40" height="40" />
       <br>TypeScript
     </td>
       <td align="center" width="96">
@@ -78,7 +78,7 @@
       <br>MongoDB
     </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="40" height="40" />
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="40" height="40" />
       <br>MySQL
     </td>
         <td align="center" width="96">
@@ -87,15 +87,15 @@
       </td>
       </td>
             <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=expressjs" width="40" height="40" alt="VsCode" />
+        <img src="https://skillicons.dev/icons?i=expressjs" width="40" height="40" alt="Expressjs" />
       <br>Expressjs
     </td>
             <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nestjs" width="40" height="40" alt="VsCode" />
+        <img src="https://skillicons.dev/icons?i=nestjs" width="40" height="40" alt="Nestjs" />
       <br>Nestjs
     </td>
             <td align="center" width="96">
-        <img src="https://camo.githubusercontent.com/0432bd5d9d34eb0fbd6f7ddfcced0f93d0c3742e98c8d87125879cd2222bf429/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f392f39362f536f636b65742d696f2e7376672f32343070782d536f636b65742d696f2e7376672e706e67" width="40" height="40" alt="VsCode" />
+        <img src="https://camo.githubusercontent.com/0432bd5d9d34eb0fbd6f7ddfcced0f93d0c3742e98c8d87125879cd2222bf429/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f392f39362f536f636b65742d696f2e7376672f32343070782d536f636b65742d696f2e7376672e706e67" width="40" height="40" alt="Socket.io" />
       <br>Socket.io
     </td>
  </tr>
