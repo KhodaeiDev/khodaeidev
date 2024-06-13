@@ -108,7 +108,7 @@
 <div align="center" > 
 <a href="https://t.me/khodaeiDev"> <img width="50px" src="https://github.com/khodaeidev/khodaeidev/blob/main/icons8-telegram-96.png?raw=true" alt="telegram"></a>
 <a href="https://instagram.com/khodaeidev"> <img width="50px" src="https://github.com/khodaeidev/khodaeidev/blob/main/icons8-instagram-96.png?raw=true" alt="instagram"></a>
-<a href="https://www.linkedin.com/in/khodaeidev"> <img width="50px" src="https://github.com/khodaeidev/khodaeidev/blob/main/icons8-linkedin-96.png?raw=true" alt="linkdin"></a>
+<a href="https://www.linkedin.com/in/mehrankhodaei"> <img width="50px" src="https://github.com/khodaeidev/khodaeidev/blob/main/icons8-linkedin-96.png?raw=true" alt="linkdin"></a>
 </div>
 
 
