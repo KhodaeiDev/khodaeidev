@@ -44,7 +44,7 @@
       <br>Git
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="Github" width="40" height="40" />
+        <img src="https://skillicons.dev/icons?i=github" alt="Github" width="40" height="40" />
       <br>Github
     </td>
     <td align="center" width="96"> 
@@ -52,12 +52,12 @@
       <br>GitLab
     </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postman" width="40" height="40" alt="Postman" />
-      <br>Postman
-    </td>
-      <td align="center" width="96">
         <img src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" width="40" height="40" alt="Swagger" />
       <br>Swagger
+    </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Postman" />
+      <br>Docker
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=graphql" width="40" height="40" alt="GraphQl" />
@@ -66,11 +66,11 @@
   </tr>
  <tr>
          <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="40" height="40" />
+        <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40" height="40" />
       <br>JavaScript
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="40" height="40" />
+        <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="40" height="40" />
       <br>TypeScript
     </td>
       <td align="center" width="96">
@@ -78,7 +78,7 @@
       <br>MongoDB
     </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="40" height="40" />
+        <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" height="40" />
       <br>MySQL
     </td>
         <td align="center" width="96">
