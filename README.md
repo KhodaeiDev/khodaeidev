@@ -15,22 +15,28 @@
 
 ---
 
-<h1>:man_technologist: About Me :</h1>
+```js
+const response = {
+  status: 200,
+  data: {
+    fullName: "Mehran Khodaei",
+    birthDay: "2003 January 6, Monday",
+    university: "Computer Engineering Maragheh",
+    hobbies: ["web scraping", "podcast", "book", "hiking", "Fitness Gym"],
+    languages: [".js(5x)", ".ts(3x)", ".java(2x)", "cpp(1x)"],
+    frameworks: ["Expressjs", "Nestjs"],
+    quote: "Do something that makes people's lives easier.",
+    currently: "Learning new things about the web world"
+  },
+};
+```
 
-<h3>I am a <strong>Back-End</strong> Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from IRAN , Tabriz.</h3>
-<ul>
-  <h4><li>:telescope:  I’m working as a Software Engineer and contributing to Backend for building the Server side of web applications with modern frameworks like ExpressJs , NestJs</li></h4>
-  <h4><li>:zap:  In my free time, I solve problems on GeeksforGeeks and read tech articles, and also available to solve your problems</li></h4>
-  <h4><li>📧 My Gmail Address :</li></h4>
-    <a href= "https://github.com/khodaeidev">
-    <img src= "https://img.shields.io/badge/Gmail-khodaei.dev@gmail.com-snow?style=flat&logo=gmail" />
-  </a>
-</ul>
 <div align='center'>
     <a href="http://www.coffeete.ir/khodaeidev">
        <img src="http://www.coffeete.ir/images/buttons/lemonchiffon.png" style="width:200px;" />
 </a>
 </div>
+
 <br>
 <h2>:hammer_and_wrench: Languages and Tools :</h2>
 <table align="center">
