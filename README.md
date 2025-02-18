@@ -128,6 +128,8 @@ const response = {
 <p align="center">
   <a href="https://github.com/khodaeiDev">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khodaeiDev&theme=radical" alt="khodaeidev GitHub Contribution"/>
+<!--       <img src"http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=khodaeidev&theme=default" /> -->
+      
   </a>
 </p>
 
@@ -135,7 +137,7 @@ const response = {
 
 
 <a href="https://github.com/khodaeidev">
-<img alt="khodaei dev Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khodaeidev&layout=compact&langs_count=8&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+<img alt="khodaei dev Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khodaeidev&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
 <br/>
 
 </div>
